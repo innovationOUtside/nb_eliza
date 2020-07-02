@@ -1,1 +1,1 @@
-recursive-include eliza/static/*
+recursive-include eliza/static/ *
