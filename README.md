@@ -12,7 +12,7 @@ Eliza code reused from [`dhconnelly/paip-python`](https://github.com/dhconnelly/
 
 Install via:
 
-`pip install --upgrade git+https://github.com/https://github.com/innovationOUtside/nb_eliza.git`
+`pip install --upgrade git+https://github.com/innovationOUtside/nb_eliza.git`
 
 
 ## Usage
